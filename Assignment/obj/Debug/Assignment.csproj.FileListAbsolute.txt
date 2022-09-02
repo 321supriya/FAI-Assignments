@@ -1,0 +1,7 @@
+C:\Users\sukj\source\repos\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+C:\Users\sukj\source\repos\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\sukj\source\repos\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\sukj\source\repos\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\sukj\source\repos\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\sukj\source\repos\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\sukj\source\repos\Assignment\Assignment\obj\Debug\Assignment.pdb
