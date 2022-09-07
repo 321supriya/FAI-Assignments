@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,7 +9,7 @@ namespace MathLibrary
     {
         public float Addition(float a, float b)
         {
-            return a - b;
+            return a + b;
         }
         public float Substract(float a, float b)
         {
