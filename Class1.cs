@@ -5,6 +5,7 @@ using System.Text;
 
 namespace MathLibrary
 {
+    static readonly string STRCONNECTION = ConfigurationManager.ConnectionStrings["MyNewConnection"].ConnectionString;
     public class Class1
     {
         public int Addition(int a, int b)
